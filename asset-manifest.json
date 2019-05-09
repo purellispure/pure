@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/purepage/static/css/main.2cce8147.chunk.css",
+    "main.js": "/purepage/static/js/main.6cf68a80.chunk.js",
+    "main.js.map": "/purepage/static/js/main.6cf68a80.chunk.js.map",
+    "runtime~main.js": "/purepage/static/js/runtime~main.3c4bcd1b.js",
+    "runtime~main.js.map": "/purepage/static/js/runtime~main.3c4bcd1b.js.map",
+    "static/js/2.b41502e9.chunk.js": "/purepage/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/purepage/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/purepage/index.html",
+    "precache-manifest.287f7d16dbbaf0d3dfee3830222e4f49.js": "/purepage/precache-manifest.287f7d16dbbaf0d3dfee3830222e4f49.js",
+    "service-worker.js": "/purepage/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/purepage/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/purepage/static/media/logo.5d5d9eef.svg"
+  }
+}
